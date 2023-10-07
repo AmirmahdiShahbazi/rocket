@@ -1,0 +1,18 @@
+{
+    "name": "savalan/rocket",
+    "description": "a apckage for integrating with rocket chat application",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Savalan\\Rocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AmirmahdiShahbazi",
+            "email": "shahbazi.savalan@gmail.com"
+        }
+    ],
+    "require": {}
+}
